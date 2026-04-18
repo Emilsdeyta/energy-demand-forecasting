@@ -9,9 +9,9 @@ Time series forecasting of hourly electricity consumption across 12 PJM regions 
 
 | Metric | Value |
 |--------|-------|
-| MAE    | 544 MW |
-| MAPE   | 3.48% |
-| R²     | 0.97 |
+| MAE    | 537.45 MW |
+| MAPE   | 3.38% |
+| R²     | 0.99 |
 
 > Achieved **3.48% MAPE** across all 12 regions — well within the 2–5% industry benchmark for energy demand forecasting.
 
