@@ -1,6 +1,3 @@
-# Energy-Demand-Forecasting
-Hybrid XGBoost time series forecasting for PJM energy demand across 12 regions
-
 # Energy Demand Forecasting — PJM Regions
 
 Time series forecasting of hourly electricity consumption across 12 PJM regions using XGBoost with lag-based feature engineering.
