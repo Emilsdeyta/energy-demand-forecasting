@@ -50,4 +50,3 @@ Covers hourly load data from **1998 to 2018** across 12 regional transmission zo
 - Mean Absolute Percentage Error (MAPE)
 - R² Score
 
-## Project Structure
